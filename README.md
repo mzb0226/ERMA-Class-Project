@@ -1,6 +1,6 @@
 # ERMA-7310: Class Project
 ## Author: Muhtarin Khayer Brohee
-## Health Expenditure and Child Malnutrition
+### Project title: Health Expenditure and Child Malnutrition
 
 This project examines the association between national health expenditure and child malnutrition outcomes across countries from 2016 to 2022.
 
